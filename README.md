@@ -1,4 +1,4 @@
-# Techiestuff – Technik einfach erklärt
+# Techiestuff – Technik. Einfach. Effizient.
 
 **Techiestuff.de** ist ein unabhängiger deutscher Technik- und Ratgeberblog mit Fokus auf verständliche, praxisnahe Erklärungen.
 
